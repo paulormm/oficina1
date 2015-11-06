@@ -7,3 +7,7 @@
 * Lucas Kanashiro
 * Carlos Oliveira
 
+## MINC
+
+* Clelson
+
