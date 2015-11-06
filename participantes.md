@@ -7,3 +7,7 @@
 * Lucas Kanashiro
 * Carlos Oliveira
 
+# MEC
+
+* Paulo Baroni
+* Marcelo Teixeira
